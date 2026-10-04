@@ -43,7 +43,7 @@ Demo accounts: student `2022-10001` / `demo1234`, librarian `librarian` / `clir2
 
 ## Background
 
-This started as our capstone project, a web-based seat booking system for MMCL CLIR, with requirements gathered from an interview with CLIR staff and a survey of 30 students. Our first build was an ASP.NET Web Forms prototype in C#. This version turns those static pages into a working system.
+This started as our Machine Problem for System Analysis and Design: a web-based seat booking system for MMCL CLIR, with requirements gathered from an interview with CLIR staff and a survey of 30 students. Our first build was an ASP.NET Web Forms prototype in C#. This version turns those static pages into a working system.
 
 ## Team
 
